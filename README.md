@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 👋 Hello, I’m Kuei-Chun Kao, You can also call me Johnson | 📫 Email: johnson0213@g.ucla.edu
+- 🔭 Hello, I’m Kuei-Chun Kao, You can also call me Johnson | 📫 Email: johnson0213@g.ucla.edu
 - 🌱 Education:
   - Master of Science in Computer Science, UCLA (2023-2025)
   - Bachelor of Science in Computer Science, NYCU (NCTU) (2018-2022)
